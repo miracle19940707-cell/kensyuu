@@ -1,7 +1,7 @@
 package kensyu.ch10;
-/* public class ch10{
+/*public class ch10
   //戦うと逃げるしか出来ないHeroクラス
-  String name="ミナト";
+String name="ミナト";
   int hp=100;
   //戦う
   public void attack(ch10 m) {
@@ -14,4 +14,4 @@ package kensyu.ch10;
 	System.out.println(this.name+"は逃げ出した！");
   }
 }
- */
+*/
