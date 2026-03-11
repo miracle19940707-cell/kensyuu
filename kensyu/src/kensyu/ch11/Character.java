@@ -5,7 +5,7 @@ import kensyu.ch10.Matango;
 //Characterクラスを作成（未完成）
 public class Character {
 	String name;
-	int hp;
+	public int hp;
 	//逃げる
 	public void run() {
 	  System.out.println(this.name+"は逃げ出した");

@@ -1,0 +1,20 @@
+package kensyu.ch12;
+import kensyu.ch11.Hero;
+import kensyu.ch11.Thief;
+public class ch12_6{
+//パーティが宿屋に泊まってHPを回復する
+public static void main(String[] args) {
+	  Hero h1 = new Hero();
+	  Hero h2 = new Hero();
+	  Thief t1 = new Thief();
+	  Wizard w1 = new Wizard();
+	  Wizard w2 = new Wizard();
+	  //冒険開始！
+	  //まず宿舎に泊まる
+	 h1.hp += 50;
+	 h2.hp += 50;
+	 t1.hp += 50;
+	 w1.hp += 50;
+	 w2.hp += 50; 
+   }
+}
